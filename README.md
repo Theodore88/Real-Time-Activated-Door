@@ -7,7 +7,7 @@ This repository contains the code and video demonstration of a time-activated ch
 - L298N motor driver
 - Linear Actuator
 - Jumper Cables
-- 12 V Power Source
+- 12V Power Source
 ## Tinkercad Connection Diagram
 ## Future Improvements
 Future improvements include the implementation of an LCD to give a countdown until the next operation of the door and a button to allow for manual operation of the door.

@@ -4,9 +4,9 @@ This repository contains the code and video demonstration of a time-activated ch
 ## Components Used 
 - Arduino Uno
 - DS321 Real Time Clock Module
-- L298N motor driver
+- L298N Motor Driver
 - Linear Actuator
-- Jumper Cables
+- Jumper Wires
 - 12V Power Source
 ## Fritzing Connection Diagram
 ![image](https://user-images.githubusercontent.com/102427757/211083571-43e2d99e-15f8-4341-9822-803fc214e986.png)

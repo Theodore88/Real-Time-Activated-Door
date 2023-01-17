@@ -9,7 +9,7 @@ This repository contains the code and video demonstration of a time-activated ch
 - Jumper Wires
 - 12V Power Source
 ## Fritzing Connection Diagram
-![image](https://user-images.githubusercontent.com/102427757/211083571-43e2d99e-15f8-4341-9822-803fc214e986.png)
+![image](https://user-images.githubusercontent.com/102427757/212816717-56593f2a-728e-4749-88aa-422b73b43a1e.png)
 ## Future Improvements
 Future improvements include the implementation of an LCD to give a countdown until the next operation of the door and a button to allow for manual operation of the door.
 

@@ -12,7 +12,7 @@ This repository contains the code and video demonstration of a time-activated ch
 <img width="652" alt="image" src="https://user-images.githubusercontent.com/102427757/212816886-b234eed9-f73c-47c2-88c2-a939ae342bf7.png">
 
 ## Future Improvements
-Future improvements include the implementation of an LCD to give a countdown until the next operation of the door and a button to allow for manual operation of the door.
+Future improvements include the implementation of an LCD to give a countdown until the next operation of the door.
 
 
 

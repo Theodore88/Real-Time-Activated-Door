@@ -8,6 +8,7 @@ This repository contains the code and video demonstration of a time-activated ch
 - Linear Actuator
 - Jumper Wires
 - 12V Power Source
+- 220 Ohm Resistor
 - Doorbell Button
 ## Fritzing Connection Diagram
 <img width="652" alt="image" src="https://user-images.githubusercontent.com/102427757/212816886-b234eed9-f73c-47c2-88c2-a939ae342bf7.png">
